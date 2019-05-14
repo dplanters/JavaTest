@@ -1,1 +1,4 @@
-public class ddddddd{}
+public class ddddddd{
+	
+	private string ss;
+}
